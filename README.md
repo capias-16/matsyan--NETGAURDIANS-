@@ -18,14 +18,14 @@ yarn start
 The application will typically open in your default web browser at http://localhost:3000.
 
 If not, open your browser and navigate to this address.
+screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7c31ff6e-a7c1-424b-8d8f-ef8e5da5b924" />
 
-Screenshots or GIFs
-
-(https://www.google.com/search?q=https://phantomnet-dashboard.vercel.app))
 
 YouTube Demo Video Link
 
 https://youtu.be/qRs2RYCq-bo?feature=shared
+https://youtu.be/SmLltR1XmjI?si=PmuCUaz4264oWX72
 
 Team Member Details
 
@@ -35,3 +35,5 @@ SAI HARINARAYANAN J - Leader, Developer
 SANTHOSH M - VIDEO EDITOR
 THARUN KUMAR P - PPT EDITOR
 TAVIN SANTO
+[PHANTHOM NET (1).pdf_20250718_090912_0000.pdf](https://github.com/user-attachments/files/21309910/PHANTHOM.NET.1.pdf_20250718_090912_0000.pdf)
+
