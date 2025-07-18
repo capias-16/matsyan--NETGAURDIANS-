@@ -19,8 +19,7 @@ The application will typically open in your default web browser at http://localh
 
 If not, open your browser and navigate to this address.
 
-Screenshots or GIFsLive Deployment Link
-(if any)(e.g., [https://phantomnet-dashboard.vercel.app]
+Screenshots or GIFs
 
 (https://www.google.com/search?q=https://phantomnet-dashboard.vercel.app))
 
